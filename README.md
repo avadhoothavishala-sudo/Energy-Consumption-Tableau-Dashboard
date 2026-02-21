@@ -1,7 +1,7 @@
 # Energy Consumption Dashboard (Snowflake + Tableau)
 
 ## Dashboard Preview
-[Dashboard Preview](Screenshot 2026-02-21 130335.png)
+![Dashboard Preview](Screenshot 2026-02-21 130335.png)
 
 ## 📊 Live Dashboard
 Click here to view the interactive dashboard:
