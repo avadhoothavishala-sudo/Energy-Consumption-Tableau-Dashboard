@@ -1,0 +1,16 @@
+# Energy Consumption Dashboard (Snowflake + Tableau)
+
+## Live Dashboard Link
+https://prod-in-a.online.tableau.com/#/site/avadhoothavishala-54eab6d127/views/Snowflaketableau/Dashboard1
+
+## Tools Used
+- Tableau Cloud
+- Snowflake
+- SQL
+- Data Visualization
+
+## Description
+This dashboard analyzes energy consumption and cost savings by country, region, and energy source.
+
+## Author
+Vishala Avadhootha
