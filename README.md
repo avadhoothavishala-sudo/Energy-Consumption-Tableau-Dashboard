@@ -2,6 +2,7 @@
 
 ## Dashboard Preview
 [Dashboard Preview](Screenshot 2026-02-21 130335.png)
+
 ## 📊 Live Dashboard
 Click here to view the interactive dashboard:
 https://prod-in-a.online.tableau.com/#/site/avadhoothavishala-54eab6d127/views/Snowflaketableau/Dashboard1
