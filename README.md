@@ -1,1 +1,24 @@
-# Energy-Consumption-Tableau-Dashboard
+# Energy Consumption Dashboard (Snowflake + Tableau)
+
+## 📊 Live Dashboard
+Click here to view the interactive dashboard:
+https://prod-in-a.online.tableau.com/#/site/avadhoothavishala-54eab6d127/views/Snowflaketableau/Dashboard1
+
+## 📌 Project Overview
+This dashboard analyzes energy consumption and cost savings across countries, regions, and energy sources.
+
+## 🛠 Tools Used
+- Tableau Cloud
+- Snowflake
+- SQL
+- Data Visualization
+
+## 📈 Features
+- Country-wise energy consumption analysis
+- Region-wise cost savings insights
+- Energy source comparison
+- Interactive visual dashboard
+
+## 👤 Author
+Vishala Avadhootha
+Aspiring Data Analyst
